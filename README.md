@@ -1,4 +1,4 @@
-## Oi, atualmente eu estou no programa da Ada Tech em parceria com o Santander Academy na qualificação de Web Front End 👋
+## Oi, atualmente estou no programa da Ada Tech em parceria com o Santander Academy na qualificação de Web Front End 👋
 
 
 <!--
